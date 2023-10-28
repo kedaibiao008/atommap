@@ -1,5 +1,5 @@
 # 指定文件名和文本内容
-filename = "8885.atommap.svg"
+filename = "~/atomicals/atomicals-js/8885.atommap.svg"  # 包含完整路径的文件名
 svg_content = """
 <svg width="200" height="50" xmlns="http://www.w3.org/2000/svg">
     <rect width="100%" height="100%" fill="#ffffff"/>
